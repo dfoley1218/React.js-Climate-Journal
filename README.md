@@ -1,3 +1,5 @@
+https://reactclimatejournal.netlify.app/
+
 This is a React project focused on data driven elements to create a template for a climate travel journal.
 The project focused on reusability of React components, variations in prop usage, and creating components from an array of data sources.
 The core React functionalities focused on were...
